@@ -1,0 +1,2 @@
+rootProject.name='NCIT_Test2'
+include ':app'
